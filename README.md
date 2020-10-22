@@ -1,5 +1,10 @@
 # Docker Images for setting up Deep Learning Machines
 
+tf.Dockerfile = Tensorflow
+pytorch.Dockerfile = PyTorch
+
+Either of the file can be edited to use both or any one of the two.
+
 ## Tensorflow
 
 Uncomment line 1 for Tensorflow latest GPU docker image and line 2 for jupyter version of the same. Also comment out lines 3,4 and 5
