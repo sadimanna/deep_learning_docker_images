@@ -1,7 +1,8 @@
 # Docker Images for setting up Deep Learning Machines
 
-tf.Dockerfile = Tensorflow
-pytorch.Dockerfile = PyTorch
+**tf.Dockerfile** = *Tensorflow*
+
+**pytorch.Dockerfile** = *PyTorch*
 
 Either of the file can be edited to use both or any one of the two.
 
