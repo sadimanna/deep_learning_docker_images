@@ -14,4 +14,6 @@ If both Tensorflow and PyTorch is needed, then keep line 1, 5 uncommented.
 
 # Python Libraries
 
-For any python libraries, add those to line 7
+For any python libraries, add those to line 7 if available with **pip**
+
+Otherwise add the commands as required after **RUN** in the _Dockerfile_
